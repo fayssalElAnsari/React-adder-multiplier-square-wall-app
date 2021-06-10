@@ -1,0 +1,13 @@
+div#app {
+   position : relative;
+   min-height: 200px;
+ }
+
+div.app div{
+  width: 300px;
+  height: 300px;
+  border: solid thin black;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top;
+}
